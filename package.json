@@ -1,0 +1,12 @@
+{
+  "name": "capstone-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
